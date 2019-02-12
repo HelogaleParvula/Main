@@ -24,6 +24,8 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.britannica.com/biography/Jacobo-Arbenz
 
 ## Golpe de estado en Brasil, 1964
+* _Legacy of Ashes_
+* https://nsarchive2.gwu.edu//NSAEBB/NSAEBB118/index.htm
 * https://www.britannica.com/place/Brazil/Military-intervention-and-dictatorship (Goulart nacionalizó varias refinerías privadas e instituyó una reforma agraria)
 
 ## Golpe de estado en Ghana, 1966
