@@ -6,8 +6,8 @@ Además dicha lista se acompaña con material bibliográfico para apoyar el _[hi
 A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim Weiner "Legacy of Ashes", cuyo título hace referencia a una conversación entre Eisenhower y el director de la CIA Allen Dulles en la que el presidente aseguró a Dulles que la CIA dejaría tras de sí un _legado de cenizas_. 
 
 # Golpe de estado en Siria, 1949
-⋅⋅* Legacy of Ashes
-
+* Legacy of Ashes
+* https://www.politico.eu/article/why-the-arabs-dont-want-us-in-syria-mideast-conflict-oil-intervention/
 
 # Golpe de estado en Irán, 1953
-··* Legacy of Ashes
+* Legacy of Ashes
