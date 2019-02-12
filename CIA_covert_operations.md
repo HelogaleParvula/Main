@@ -27,4 +27,8 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.britannica.com/place/Brazil/Military-intervention-and-dictatorship (Goulart nacionalizó varias refinerías privadas e instituyó una reforma agraria)
 
 
+
+
+
+
 **_Nota:_** como se ha podido observar la bibliografía no incluye artículos de Wikipedia. No nos equivoquemos, la Wikipedia es una gran fuente de información, sobre todo en ciencias, arte e historia hay una inmensidad de artículos fantásticos y extensamente referenciados. Yo no habría tenido conocimiento de ciertas actividades encubiertas de la CIA de no haber sido por varios artículos de Wikipedia. Dicho ésto, los medios de caracter enciclopédico (cualesquiera) no son recomendables para documentarse sobre hechos controvertidos. Las investigaciones extensas con amplia documentación son la manera de proceder.
