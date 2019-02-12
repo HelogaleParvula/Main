@@ -17,3 +17,7 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * http://www.iranreview.org/content/Documents/The-Consortium-Agreement-of-1954.htm (empresas que se repartieron el petróleo iraní en 1954)
 * https://www.britannica.com/biography/Mohammad-Mosaddeq
 * https://www.britannica.com/biography/Reza-Shah-Pahlavi
+
+## Golpe de estado en Guatemala, 1954
+* _Legacy of Ashes_
+* https://www.jstor.org/stable/156959?seq=1#page_scan_tab_contents (Sobre la reforma agraria de Árbenz)
