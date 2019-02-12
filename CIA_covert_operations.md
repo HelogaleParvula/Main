@@ -26,6 +26,9 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 ## Golpe de estado en Brasil, 1964
 * https://www.britannica.com/place/Brazil/Military-intervention-and-dictatorship (Goulart nacionalizó varias refinerías privadas e instituyó una reforma agraria)
 
+## Golpe de estado en Ghana, 
+* https://www.nytimes.com/1978/05/09/archives/cia-said-to-have-aided-plotters-who-overthrew-nkrumah-in-ghana.html
+* _In search of enemies: a CIA story_ (páginas 160,201) escrito por el ex-analista de la CIA en Angola John Stockwell.
 
 
 <br><br>
