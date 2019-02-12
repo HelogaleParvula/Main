@@ -20,4 +20,4 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 
 ## Golpe de estado en Guatemala, 1954
 * _Legacy of Ashes_
-* https://www.jstor.org/stable/156959?seq=1#page_scan_tab_contents (Sobre la reforma agraria de Árbenz)
+* https://www.jstor.org/stable/156959?seq=1#page_scan_tab_contents (sobre la reforma agraria de Árbenz)
