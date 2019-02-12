@@ -8,6 +8,12 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 ## Golpe de estado en Siria, 1949
 * _Legacy of Ashes_
 * https://www.politico.eu/article/why-the-arabs-dont-want-us-in-syria-mideast-conflict-oil-intervention/
+* http://coat.ncf.ca/our_magazine/links/issue51/articles/51_12-13.pdf
+* https://www.britannica.com/biography/Shukri-al-Quwatli
 
 ## Golpe de estado en Irán, 1953
 * _Legacy of Ashes_
+* https://www.theguardian.com/world/2013/aug/19/cia-admits-role-1953-iranian-coup
+* http://www.iranreview.org/content/Documents/The-Consortium-Agreement-of-1954.htm (empresas que se repartieron el petróleo iraní en 1954)
+* https://www.britannica.com/biography/Mohammad-Mosaddeq
+* https://www.britannica.com/biography/Reza-Shah-Pahlavi
