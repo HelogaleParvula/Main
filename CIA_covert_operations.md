@@ -39,6 +39,12 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * _In search of enemies: a CIA story_ (páginas 160,201) escrito por el ex-analista de la CIA en Angola John Stockwell.
 * https://www.nytimes.com/1978/05/09/archives/cia-said-to-have-aided-plotters-who-overthrew-nkrumah-in-ghana.html
 
+
+## Golpe de estado en Australia, 1975
+* https://www.theguardian.com/commentisfree/2014/oct/23/gough-whitlam-1975-coup-ended-australian-independence
+* https://thenewdaily.com.au/news/world/2017/01/19/us-interference-australian-1975-election/
+
+
 <br><br>
 
 **_Nota:_** como se ha podido observar la bibliografía no incluye artículos de Wikipedia. No nos equivoquemos, la Wikipedia es una gran fuente de información, sobre todo en ciencias, arte e historia hay una inmensidad de artículos fantásticos y extensamente referenciados. Yo no habría tenido conocimiento de ciertas actividades encubiertas de la CIA de no haber sido por varios artículos de Wikipedia. Dicho ésto, los medios de caracter enciclopédico (cualesquiera) no son recomendables para documentarse sobre hechos controvertidos. Las investigaciones extensas con amplia documentación son la manera de proceder.
