@@ -30,6 +30,11 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.theguardian.com/world/2001/aug/01/indonesia.comment
 * https://www.britannica.com/biography/Sukarno
 
+## Bahía de los Cerdos, 1961
+* _Legacy of Ashes_
+* https://www.britannica.com/event/Bay-of-Pigs-invasion
+* https://www.britannica.com/event/Cuban-missile-crisis
+
 ## Golpe de estado en República Democrática del Congo, 1961-1965
 * _Legacy of Ashes
 * https://www.foreignaffairs.com/articles/democratic-republic-congo/2014-06-16/what-really-happened-congo
