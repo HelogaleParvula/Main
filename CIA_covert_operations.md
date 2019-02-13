@@ -22,13 +22,18 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * _Legacy of Ashes_
 * https://www.jstor.org/stable/156959?seq=1#page_scan_tab_contents (sobre la reforma agraria de Árbenz)
 * https://www.britannica.com/biography/Jacobo-Arbenz
+* https://www.nytimes.com/2011/10/21/world/americas/an-apology-for-a-guatemalan-coup-57-years-later.html
 
 ## Golpe de estado en Brasil, 1964
 * _Legacy of Ashes_
 * https://nsarchive2.gwu.edu//NSAEBB/NSAEBB118/index.htm
 * https://www.britannica.com/place/Brazil/Military-intervention-and-dictatorship (Goulart nacionalizó varias refinerías privadas e instituyó una reforma agraria)
 
-## Golpe de estado en Indonesia, 1966
+## Golpe de estado en Indonesia, 1958-1967
+* _Legacy of Ashes_
+* https://www.theatlantic.com/international/archive/2017/10/the-indonesia-documents-and-the-us-agenda/543534/
+* https://www.theguardian.com/world/2001/aug/01/indonesia.comment
+* https://www.britannica.com/biography/Sukarno
 
 ## Golpe de estado en Ghana, 1966
 * _In search of enemies: a CIA story_ (páginas 160,201) escrito por el ex-analista de la CIA en Angola John Stockwell.
