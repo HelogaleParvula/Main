@@ -15,6 +15,7 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * _Legacy of Ashes_
 * https://www.theguardian.com/world/2013/aug/19/cia-admits-role-1953-iranian-coup
 * http://www.iranreview.org/content/Documents/The-Consortium-Agreement-of-1954.htm (empresas que se repartieron el petróleo iraní en 1954)
+* http://foreignpolicy.com/2017/06/20/64-years-later-cia-finally-releases-details-of-iranian-coup-iran-tehran-oil/amp/
 * https://www.britannica.com/biography/Mohammad-Mosaddeq
 * https://www.britannica.com/biography/Reza-Shah-Pahlavi
 
