@@ -24,32 +24,37 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.britannica.com/biography/Jacobo-Arbenz
 * https://www.nytimes.com/2011/10/21/world/americas/an-apology-for-a-guatemalan-coup-57-years-later.html
 
-# Golpe de estado en República Democrática del Congo, 1961
-* _Legacy of Ashes
-* https://www.foreignaffairs.com/articles/democratic-republic-congo/2014-06-16/what-really-happened-congo
-* _In search of enemies: a CIA story_, escrito por el ex-analista de la CIA en Angola John Stockwell.
-* https://www.britannica.com/place/Democratic-Republic-of-the-Congo/The-Congo-crisis
-
-## Golpe de estado en Brasil, 1964
-* _Legacy of Ashes_
-* https://nsarchive2.gwu.edu//NSAEBB/NSAEBB118/index.htm
-* https://www.britannica.com/place/Brazil/Military-intervention-and-dictatorship (Goulart nacionalizó varias refinerías privadas e instituyó una reforma agraria)
-
 ## Golpe de estado en Indonesia, 1958-1967
 * _Legacy of Ashes_
 * https://www.theatlantic.com/international/archive/2017/10/the-indonesia-documents-and-the-us-agenda/543534/
 * https://www.theguardian.com/world/2001/aug/01/indonesia.comment
 * https://www.britannica.com/biography/Sukarno
 
-## Golpe de estado en Ghana, 1966
-* _In search of enemies: a CIA story_ (páginas 160,201)
-* https://www.nytimes.com/1978/05/09/archives/cia-said-to-have-aided-plotters-who-overthrew-nkrumah-in-ghana.html
+# Golpe de estado en República Democrática del Congo, 1961-1965
+* _Legacy of Ashes
+* https://www.foreignaffairs.com/articles/democratic-republic-congo/2014-06-16/what-really-happened-congo
+* _In search of enemies: a CIA story_, escrito por el ex-analista de la CIA en Angola John Stockwell.
+* https://www.britannica.com/place/Democratic-Republic-of-the-Congo/The-Congo-crisis
+* https://www.britannica.com/biography/Patrice-Lumumba
+* https://www.britannica.com/biography/Mobutu-Sese-Seko
 
 ## Golpe de estado en Iraq, 1963
 * _Legacy of Ashes_
 * https://www.pbs.org/wgbh/pages/frontline/shows/saddam/interviews/aburish.html
 * https://www.politico.eu/article/why-the-arabs-dont-want-us-in-syria-mideast-conflict-oil-intervention/
 
+## Golpe de estado en Brasil, 1964
+* _Legacy of Ashes_
+* https://nsarchive2.gwu.edu//NSAEBB/NSAEBB118/index.htm
+* https://www.britannica.com/place/Brazil/Military-intervention-and-dictatorship (Goulart nacionalizó varias refinerías privadas e instituyó una reforma agraria)
+
+## Golpe de estado en Ghana, 1966
+* _In search of enemies: a CIA story_ (páginas 160,201)
+* https://www.nytimes.com/1978/05/09/archives/cia-said-to-have-aided-plotters-who-overthrew-nkrumah-in-ghana.html
+
+## Golpe de estado en Grecia, 1967
+* _Legacy of Ashes
+* https://www.britannica.com/biography/Giorgios-Papadopoulos
 
 <br><br>
 
