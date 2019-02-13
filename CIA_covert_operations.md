@@ -30,7 +30,7 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.theguardian.com/world/2001/aug/01/indonesia.comment
 * https://www.britannica.com/biography/Sukarno
 
-# Golpe de estado en República Democrática del Congo, 1961-1965
+## Golpe de estado en República Democrática del Congo, 1961-1965
 * _Legacy of Ashes
 * https://www.foreignaffairs.com/articles/democratic-republic-congo/2014-06-16/what-really-happened-congo
 * _In search of enemies: a CIA story_, escrito por el ex-analista de la CIA en Angola John Stockwell.
@@ -42,6 +42,7 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * _Legacy of Ashes_
 * https://www.pbs.org/wgbh/pages/frontline/shows/saddam/interviews/aburish.html
 * https://www.politico.eu/article/why-the-arabs-dont-want-us-in-syria-mideast-conflict-oil-intervention/
+* https://www.britannica.com/place/Iraq/World-War-II-and-British-intervention-1939-45#ref232287
 
 ## Golpe de estado en Brasil, 1964
 * _Legacy of Ashes_
