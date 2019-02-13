@@ -21,8 +21,8 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 ## Golpe de estado en Guatemala, 1954
 * _Legacy of Ashes_
 * https://www.jstor.org/stable/156959?seq=1#page_scan_tab_contents (sobre la reforma agraria de Árbenz)
-* https://www.britannica.com/biography/Jacobo-Arbenz
 * https://www.nytimes.com/2011/10/21/world/americas/an-apology-for-a-guatemalan-coup-57-years-later.html
+* https://www.britannica.com/biography/Jacobo-Arbenz
 
 ## Golpe de estado en Indonesia, 1958-1967
 * _Legacy of Ashes_
