@@ -1,7 +1,7 @@
 # Estados Unidos en los golpes de estado del siglo XX
 A continuación se presenta una enumeración de los golpes de estado fraguados por Estados Unidos y ejecutados por la _Central Intelligence Agency_ y el Departamendo de Defensa. También se mencionan algunas operaciones encubiertas que no implicaron un cambio de gobierno, pero que sin embargo, poseen un carácter de interés general e histórico. Estas operaciones se identificarán convenientemente con un asterisco **(&ast;)**.
 
-Además dicha lista se acompaña con material bibliográfico para apoyar el _[hilo](https://twitter.com/Hilo_Scientia/status/1093249750319681538)_ que redacté en Twitter. Y no solo eso, sino también para disponer al público de una variedad de fuentes de información con las que sumergirse en una realidad convenientemente oscurecida.
+Además dicha lista se acompaña con material bibliográfico para apoyar el **_[hilo](https://twitter.com/Hilo_Scientia/status/1093249750319681538)_** que redacté en Twitter. Y no solo eso, sino también para disponer al público de una variedad de fuentes de información con las que sumergirse en una realidad convenientemente oscurecida.
 
 A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim Weiner "Legacy of Ashes", cuyo título hace referencia a una conversación entre Eisenhower y el director de la CIA Allen Dulles en la que el presidente aseguró a Dulles que la CIA dejaría tras de sí un _legado de cenizas_. 
 
@@ -24,6 +24,12 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.britannica.com/biography/Jacobo-Arbenz
 * https://www.nytimes.com/2011/10/21/world/americas/an-apology-for-a-guatemalan-coup-57-years-later.html
 
+# Golpe de estado en República Democrática del Congo, 1961
+* _Legacy of Ashes
+* https://www.foreignaffairs.com/articles/democratic-republic-congo/2014-06-16/what-really-happened-congo
+* _In search of enemies: a CIA story_, escrito por el ex-analista de la CIA en Angola John Stockwell.
+* https://www.britannica.com/place/Democratic-Republic-of-the-Congo/The-Congo-crisis
+
 ## Golpe de estado en Brasil, 1964
 * _Legacy of Ashes_
 * https://nsarchive2.gwu.edu//NSAEBB/NSAEBB118/index.htm
@@ -36,13 +42,13 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.britannica.com/biography/Sukarno
 
 ## Golpe de estado en Ghana, 1966
-* _In search of enemies: a CIA story_ (páginas 160,201) escrito por el ex-analista de la CIA en Angola John Stockwell.
+* _In search of enemies: a CIA story_ (páginas 160,201)
 * https://www.nytimes.com/1978/05/09/archives/cia-said-to-have-aided-plotters-who-overthrew-nkrumah-in-ghana.html
 
-
-## Golpe de estado en Australia, 1975
-* https://www.theguardian.com/commentisfree/2014/oct/23/gough-whitlam-1975-coup-ended-australian-independence
-* https://thenewdaily.com.au/news/world/2017/01/19/us-interference-australian-1975-election/
+## Golpe de estado en Iraq, 1963
+* _Legacy of Ashes_
+* https://www.pbs.org/wgbh/pages/frontline/shows/saddam/interviews/aburish.html
+* https://www.politico.eu/article/why-the-arabs-dont-want-us-in-syria-mideast-conflict-oil-intervention/
 
 
 <br><br>
