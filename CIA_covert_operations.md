@@ -13,9 +13,9 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 
 ## Golpe de estado en Irán, 1953
 * _Legacy of Ashes_
+* http://foreignpolicy.com/2017/06/20/64-years-later-cia-finally-releases-details-of-iranian-coup-iran-tehran-oil
 * https://www.theguardian.com/world/2013/aug/19/cia-admits-role-1953-iranian-coup
 * http://www.iranreview.org/content/Documents/The-Consortium-Agreement-of-1954.htm (empresas que se repartieron el petróleo iraní en 1954)
-* http://foreignpolicy.com/2017/06/20/64-years-later-cia-finally-releases-details-of-iranian-coup-iran-tehran-oil/amp/
 * https://www.britannica.com/biography/Mohammad-Mosaddeq
 * https://www.britannica.com/biography/Reza-Shah-Pahlavi
 
@@ -63,6 +63,6 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * _Legacy of Ashes
 * https://www.britannica.com/biography/Giorgios-Papadopoulos
 
-<br><br>
+<br>
 
 **_Nota:_** como se ha podido observar la bibliografía no incluye artículos de Wikipedia. No nos equivoquemos, la Wikipedia es una gran fuente de información, sobre todo en ciencias, arte e historia hay una inmensidad de artículos fantásticos y extensamente referenciados. Yo no habría tenido conocimiento de ciertas actividades encubiertas de la CIA de no haber sido por varios artículos de Wikipedia. Dicho ésto, los medios de caracter enciclopédico (cualesquiera) no son recomendables para documentarse sobre hechos controvertidos. Las investigaciones extensas con amplia documentación son la manera de proceder.
