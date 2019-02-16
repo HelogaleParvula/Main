@@ -21,9 +21,15 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 
 ## Golpe de estado en Guatemala, 1954
 * _Legacy of Ashes_
+* https://es.slideshare.net/Cancinos/decreto-900 (ley de reforma agraria)
 * https://www.jstor.org/stable/156959?seq=1#page_scan_tab_contents (sobre la reforma agraria de Árbenz)
+* https://elordenmundial.com/la-cia-contra-guatemala/
 * https://www.nytimes.com/2011/10/21/world/americas/an-apology-for-a-guatemalan-coup-57-years-later.html
 * https://www.britannica.com/biography/Jacobo-Arbenz
+
+## Financiamiento guerrillas del Tibet, años 50 y 60
+* _Legacy of Ashes
+* https://www.nytimes.com/1998/10/02/world/world-news-briefs-dalai-lama-group-says-it-got-money-from-cia.html
 
 ## Golpe de estado en Indonesia, 1958-1967
 * _Legacy of Ashes_
@@ -35,6 +41,10 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * _Legacy of Ashes_
 * https://www.britannica.com/event/Bay-of-Pigs-invasion
 * https://www.britannica.com/event/Cuban-missile-crisis
+
+## Golpe de estado en República Dominicana, 1961
+* _Legacy of Ashes
+* https://www.britannica.com/biography/Rafael-Trujillo
 
 ## Golpe de estado en República Democrática del Congo, 1961-1965
 * _Legacy of Ashes
@@ -50,6 +60,11 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.politico.eu/article/why-the-arabs-dont-want-us-in-syria-mideast-conflict-oil-intervention/
 * https://www.britannica.com/place/Iraq/World-War-II-and-British-intervention-1939-45#ref232287
 
+## Golpe de estado en Bolivia, 1964
+* _Legacy of Ashes
+* https://www.huffingtonpost.com/stephen-zunes/us-intervention-in-bolivi_b_127528.html
+* https://www.britannica.com/biography/Che-Guevara
+
 ## Golpe de estado en Brasil, 1964
 * _Legacy of Ashes_
 * https://nsarchive2.gwu.edu//NSAEBB/NSAEBB118/index.htm
@@ -62,6 +77,7 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 ## Golpe de estado en Grecia, 1967
 * _Legacy of Ashes
 * https://www.britannica.com/biography/Giorgios-Papadopoulos
+
 
 <br>
 
