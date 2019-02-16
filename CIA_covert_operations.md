@@ -27,7 +27,7 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.nytimes.com/2011/10/21/world/americas/an-apology-for-a-guatemalan-coup-57-years-later.html
 * https://www.britannica.com/biography/Jacobo-Arbenz
 
-## Financiamiento guerrillas del Tibet, años 50 y 60
+## Financiamiento guerrillas del Tibet, años 50 y 60 (&ast;)
 * _Legacy of Ashes
 * https://www.nytimes.com/1998/10/02/world/world-news-briefs-dalai-lama-group-says-it-got-money-from-cia.html
 
@@ -37,7 +37,7 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.theguardian.com/world/2001/aug/01/indonesia.comment
 * https://www.britannica.com/biography/Sukarno
 
-## Bahía de Cochinos, Cuba 1961
+## Bahía de Cochinos, Cuba 1961 (&ast;)
 * _Legacy of Ashes_
 * https://www.britannica.com/event/Bay-of-Pigs-invasion
 * https://www.britannica.com/event/Cuban-missile-crisis
