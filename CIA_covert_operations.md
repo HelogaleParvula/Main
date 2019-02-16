@@ -60,6 +60,10 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.politico.eu/article/why-the-arabs-dont-want-us-in-syria-mideast-conflict-oil-intervention/
 * https://www.britannica.com/place/Iraq/World-War-II-and-British-intervention-1939-45#ref232287
 
+## Golpe de estado en Vietnam del Sur, 1963
+* _Legacy of Ashes
+* https://www.nytimes.com/1971/07/01/archives/us-and-diems-overthrow-step-by-step-pentagon-papers-the-diem-coup.html
+
 ## Golpe de estado en Bolivia, 1964
 * _Legacy of Ashes
 * https://www.huffingtonpost.com/stephen-zunes/us-intervention-in-bolivi_b_127528.html
