@@ -1,2 +1,2 @@
-# Main
-Main repository
+# Howdy partner
+
