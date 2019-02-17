@@ -31,6 +31,11 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * _Legacy of Ashes
 * https://www.nytimes.com/1998/10/02/world/world-news-briefs-dalai-lama-group-says-it-got-money-from-cia.html
 
+## Paramilitares enviados a Corea del norte, años 50 y 60 &nbsp; &ast;
+* _Legacy of Ashes
+* https://elpais.com/diario/1999/10/01/internacional/938728813_850215.html (sobre la masacre de No Gun Ri)
+* http://archive.boston.com/bigpicture/2010/06/remembering_the_korean_war_60.html#photo12 (imágenes de la guerra de Corea)
+
 ## Golpe de estado en Indonesia, 1958-1967
 * _Legacy of Ashes_
 * https://www.theatlantic.com/international/archive/2017/10/the-indonesia-documents-and-the-us-agenda/543534/
