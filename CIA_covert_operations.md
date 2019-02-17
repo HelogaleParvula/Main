@@ -27,7 +27,7 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.nytimes.com/2011/10/21/world/americas/an-apology-for-a-guatemalan-coup-57-years-later.html
 * https://www.britannica.com/biography/Jacobo-Arbenz
 
-## Financiamiento guerrillas del Tibet, años 50 y 60 &nbsp; &ast;
+## Financiamiento de guerrillas del Tibet, años 50 y 60 &nbsp; &ast;
 * _Legacy of Ashes
 * https://www.nytimes.com/1998/10/02/world/world-news-briefs-dalai-lama-group-says-it-got-money-from-cia.html
 
