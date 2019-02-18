@@ -11,6 +11,11 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * http://coat.ncf.ca/our_magazine/links/issue51/articles/51_12-13.pdf
 * https://www.britannica.com/biography/Shukri-al-Quwatli
 
+## Agentes enviados a Albania, 1949-1953
+* _Legacy of Ashes
+* https://www.britannica.com/biography/Kim-Philby (sobre el agente doble del NKVD y KGB Kim Philby)
+* https://www.britannica.com/biography/Enver-Hoxha (sobre el )
+
 ## Golpe de estado en Irán, 1953
 * _Legacy of Ashes_
 * http://foreignpolicy.com/2017/06/20/64-years-later-cia-finally-releases-details-of-iranian-coup-iran-tehran-oil
