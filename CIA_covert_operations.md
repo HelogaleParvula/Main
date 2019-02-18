@@ -12,7 +12,7 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.britannica.com/biography/Shukri-al-Quwatli
 
 ## Agentes enviados a Albania, 1949-1953 &nbsp; &ast;
-* _Legacy of Ashes
+* _Legacy of Ashes_
 * https://www.britannica.com/biography/Kim-Philby (sobre el agente doble del NKVD y KGB Kim Philby)
 * https://www.britannica.com/biography/Enver-Hoxha
 
