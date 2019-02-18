@@ -33,11 +33,11 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.britannica.com/biography/Jacobo-Arbenz
 
 ## Financiamiento de guerrillas del Tibet, años 50 y 60 &nbsp; &ast;
-* _Legacy of Ashes
+* _Legacy of Ashes_
 * https://www.nytimes.com/1998/10/02/world/world-news-briefs-dalai-lama-group-says-it-got-money-from-cia.html
 
 ## Paramilitares enviados a Corea del norte, años 50 y 60 &nbsp; &ast;
-* _Legacy of Ashes
+* _Legacy of Ashes_
 * https://elpais.com/diario/1999/10/01/internacional/938728813_850215.html (sobre la masacre de No Gun Ri)
 * http://archive.boston.com/bigpicture/2010/06/remembering_the_korean_war_60.html#photo12 (imágenes de la guerra de Corea)
 
@@ -53,11 +53,11 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.britannica.com/event/Cuban-missile-crisis
 
 ## Golpe de estado en República Dominicana, 1961
-* _Legacy of Ashes
+* _Legacy of Ashes_
 * https://www.britannica.com/biography/Rafael-Trujillo
 
 ## Golpe de estado en República Democrática del Congo, 1961-1965
-* _Legacy of Ashes
+* _Legacy of Ashes_
 * https://www.foreignaffairs.com/articles/democratic-republic-congo/2014-06-16/what-really-happened-congo
 * _In search of enemies: a CIA story_, escrito por el ex-analista de la CIA en Angola John Stockwell.
 * https://www.britannica.com/place/Democratic-Republic-of-the-Congo/The-Congo-crisis
@@ -71,11 +71,11 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.britannica.com/place/Iraq/World-War-II-and-British-intervention-1939-45#ref232287
 
 ## Golpe de estado en Vietnam del Sur, 1963
-* _Legacy of Ashes
+* _Legacy of Ashes_
 * https://www.nytimes.com/1971/07/01/archives/us-and-diems-overthrow-step-by-step-pentagon-papers-the-diem-coup.html
 
 ## Golpe de estado en Bolivia, 1964
-* _Legacy of Ashes
+* _Legacy of Ashes_
 * https://www.huffingtonpost.com/stephen-zunes/us-intervention-in-bolivi_b_127528.html
 * https://www.britannica.com/biography/Che-Guevara
 
@@ -89,7 +89,7 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 * https://www.nytimes.com/1978/05/09/archives/cia-said-to-have-aided-plotters-who-overthrew-nkrumah-in-ghana.html
 
 ## Golpe de estado en Grecia, 1967
-* _Legacy of Ashes
+* _Legacy of Ashes_
 * https://www.britannica.com/biography/Giorgios-Papadopoulos
 
 
