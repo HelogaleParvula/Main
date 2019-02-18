@@ -3,7 +3,7 @@ A continuación se presenta una enumeración de los golpes de estado fraguados p
 
 Además, dicha lista se acompaña de material bibliográfico para apoyar el **[hilo que redacté en Twitter](https://twitter.com/Hilo_Scientia/status/1093249750319681538)**. Y no solo eso, sino también para disponer al público de una variedad de fuentes de información con las que sumergirse en una realidad convenientemente oscurecida.
 
-A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim Weiner "Legacy of Ashes", cuyo título hace referencia a una conversación entre Eisenhower y el director de la CIA Allen Dulles en la que el presidente aseguró a Dulles que la CIA dejaría tras de sí un _legado de cenizas_.  Este libro sobre la historia general de la CIA es quizás el mejor consagrado en la comunidad historiográfica, una auténtica maravilla documental y una delicia de leer. 
+A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim Weiner "Legacy of Ashes", cuyo título hace referencia a una conversación entre Eisenhower y el director de la CIA Allen Dulles en la que el presidente aseguró a Dulles que la CIA dejaría tras de sí un _legado de cenizas_.  Este libro sobre la historia general de la CIA es quizás el mejor consagrado en la comunidad historiográfica, una auténtica maravilla documental y una delicia de leer. 
 
 ## Golpe de estado en Siria, 1949
 * _Legacy of Ashes_
