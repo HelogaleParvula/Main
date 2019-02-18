@@ -14,7 +14,7 @@ A lo largo de la bibliografía se encontrarán numerosas veces el libro de Tim W
 ## Agentes enviados a Albania, 1949-1953
 * _Legacy of Ashes
 * https://www.britannica.com/biography/Kim-Philby (sobre el agente doble del NKVD y KGB Kim Philby)
-* https://www.britannica.com/biography/Enver-Hoxha (sobre el )
+* https://www.britannica.com/biography/Enver-Hoxha
 
 ## Golpe de estado en Irán, 1953
 * _Legacy of Ashes_
