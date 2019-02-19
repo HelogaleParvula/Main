@@ -43,6 +43,7 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 
 ## Golpe de estado en Indonesia, 1958-1967
 * _Legacy of Ashes_
+* https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files
 * https://www.theatlantic.com/international/archive/2017/10/the-indonesia-documents-and-the-us-agenda/543534/
 * https://www.theguardian.com/world/2001/aug/01/indonesia.comment
 * https://www.britannica.com/biography/Sukarno
