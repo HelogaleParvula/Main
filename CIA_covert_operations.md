@@ -73,6 +73,7 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 
 ## Golpe de estado en Vietnam del Sur, 1963
 * _Legacy of Ashes_
+* https://www.archives.gov/research/pentagon-papers
 * https://www.nytimes.com/1971/07/01/archives/us-and-diems-overthrow-step-by-step-pentagon-papers-the-diem-coup.html
 
 ## Golpe de estado en Bolivia, 1964
