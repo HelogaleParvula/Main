@@ -75,7 +75,7 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * _Legacy of Ashes_
 * https://www.archives.gov/research/pentagon-papers
 * https://www.nytimes.com/1971/07/01/archives/us-and-diems-overthrow-step-by-step-pentagon-papers-the-diem-coup.html
-* https://www.bbc.com/bitesize/guides/z9xcwmn/revision/1
+
 
 ## Golpe de estado en Bolivia, 1964
 * _Legacy of Ashes_
