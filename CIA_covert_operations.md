@@ -48,6 +48,12 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * https://www.theguardian.com/world/2001/aug/01/indonesia.comment
 * https://www.britannica.com/biography/Sukarno
 
+## Guerrillas de Laos, años 60
+* _Legacy of Ashes_
+* https://www.spectator.co.uk/2017/05/what-exactly-was-the-cia-up-to-in-laos-in-the-1960s/
+* 
+* https://www.bbc.com/news/world-us-canada-42314701
+
 ## Bahía de Cochinos, Cuba 1961 &nbsp; &ast;
 * _Legacy of Ashes_
 * https://www.britannica.com/event/Bay-of-Pigs-invasion
