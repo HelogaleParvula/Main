@@ -16,6 +16,11 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * https://www.britannica.com/biography/Kim-Philby (sobre el agente doble del NKVD y KGB Kim Philby)
 * https://www.britannica.com/biography/Enver-Hoxha
 
+## Paramilitares enviados a Corea del norte, años 50 y 60 &nbsp; &ast;
+* _Legacy of Ashes_
+* https://elpais.com/diario/1999/10/01/internacional/938728813_850215.html (sobre la masacre de No Gun Ri)
+* http://archive.boston.com/bigpicture/2010/06/remembering_the_korean_war_60.html#photo12 (imágenes de la guerra de Corea)
+
 ## Golpe de estado en Irán, 1953
 * _Legacy of Ashes_
 * http://foreignpolicy.com/2017/06/20/64-years-later-cia-finally-releases-details-of-iranian-coup-iran-tehran-oil
@@ -35,11 +40,6 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 ## Financiamiento de guerrillas del Tibet, años 50 y 60 &nbsp; &ast;
 * _Legacy of Ashes_
 * https://www.nytimes.com/1998/10/02/world/world-news-briefs-dalai-lama-group-says-it-got-money-from-cia.html
-
-## Paramilitares enviados a Corea del norte, años 50 y 60 &nbsp; &ast;
-* _Legacy of Ashes_
-* https://elpais.com/diario/1999/10/01/internacional/938728813_850215.html (sobre la masacre de No Gun Ri)
-* http://archive.boston.com/bigpicture/2010/06/remembering_the_korean_war_60.html#photo12 (imágenes de la guerra de Corea)
 
 ## Golpe de estado en Indonesia, 1958-1967
 * _Legacy of Ashes_
@@ -80,7 +80,7 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * _Legacy of Ashes_
 * https://www.archives.gov/research/pentagon-papers
 * https://www.nytimes.com/1971/07/01/archives/us-and-diems-overthrow-step-by-step-pentagon-papers-the-diem-coup.html
-
+* https://www.britannica.com/topic/Pathet-Lao
 
 ## Golpe de estado en Bolivia, 1964
 * _Legacy of Ashes_
