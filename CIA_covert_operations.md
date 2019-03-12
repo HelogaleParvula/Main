@@ -107,7 +107,6 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 ## Golpe de estado en Bolivia, 1971
 * https://history.state.gov/historicaldocuments/frus1969-76ve10/d76a (Se aprueban 410.000 US$ para financiar a la oposición a Torres)
 * _Predatory states: Operation Condor and covert war in Latin America_, de Joan Patrice McSherry
-* _Killing hope: U.S. Military and C.I.A. Interventions Since World War II_, de William Blum
 * https://history.state.gov/historicaldocuments/frus1969-76ve10/d101 (telegrama entre Kissinger y Nixon)
 * https://www.britannica.com/place/Bolivia/Post-1952-regimes#ref218813
 
