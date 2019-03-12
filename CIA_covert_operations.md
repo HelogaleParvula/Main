@@ -21,6 +21,10 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * https://elpais.com/diario/1999/10/01/internacional/938728813_850215.html (sobre la masacre de No Gun Ri)
 * http://archive.boston.com/bigpicture/2010/06/remembering_the_korean_war_60.html#photo12 (imágenes de la guerra de Corea)
 
+## Financiación a criminales de guerra en Japón, años 50 y 60 &nbsp; &ast;
+* _Legacy of Ashes_
+* https://www.nytimes.com/1994/10/09/world/cia-spent-millions-to-support-japanese-right-in-50-s-and-60-s.html
+
 ## Golpe de estado en Irán, 1953
 * _Legacy of Ashes_
 * http://foreignpolicy.com/2017/06/20/64-years-later-cia-finally-releases-details-of-iranian-coup-iran-tehran-oil
