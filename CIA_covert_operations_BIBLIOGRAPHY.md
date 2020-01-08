@@ -114,7 +114,8 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * http://armswatch.com/350-diplomatic-flights-carry-weapons-for-terrorists/
 * http://armswatch.com/us-task-force-smoking-gun-smuggles-weapons-to-syria-serbia-files-part-2/
 * https://balkaninsight.com/2017/09/12/the-pentagon-s-2-2-billion-soviet-arms-pipeline-flooding-syria-09-12-2017/
-* https://www.independent.co.uk/voices/syria-missile-arms-deals-west-us-uk-saudi-arabia-a8459731.html 
+* https://www.independent.co.uk/voices/syria-missile-arms-deals-west-us-uk-saudi-arabia-a8459731.html
+
 (cuatro artículos sobre el contrabando de armas a rebeldes sirios)
 * https://www.washingtonpost.com/world/national-security/trump-ends-covert-cia-program-to-arm-anti-assad-rebels-in-syria-a-move-sought-by-moscow/2017/07/19/b6821a62-6beb-11e7-96ab-5f38140b38cc_story.html
 * https://www.nytimes.com/2017/08/02/world/middleeast/cia-syria-rebel-arm-train-trump.html (sobre el programa de la CIA)
