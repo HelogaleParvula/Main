@@ -110,7 +110,7 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * https://history.state.gov/historicaldocuments/frus1969-76ve10/d101 (telegrama entre Kissinger y Nixon)
 * https://www.britannica.com/place/Bolivia/Post-1952-regimes#ref218813
 
-## Financiación de yihadistas en Siria, 2011  &nbsp; &ast;
+## Financiación de yihadistas en Siria, 2011 - 2019 &nbsp; &ast;
 * http://armswatch.com/350-diplomatic-flights-carry-weapons-for-terrorists/
 * http://armswatch.com/us-task-force-smoking-gun-smuggles-weapons-to-syria-serbia-files-part-2/
 * https://balkaninsight.com/2017/09/12/the-pentagon-s-2-2-billion-soviet-arms-pipeline-flooding-syria-09-12-2017/
