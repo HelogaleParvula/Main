@@ -115,13 +115,14 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * http://armswatch.com/us-task-force-smoking-gun-smuggles-weapons-to-syria-serbia-files-part-2/
 * https://balkaninsight.com/2017/09/12/the-pentagon-s-2-2-billion-soviet-arms-pipeline-flooding-syria-09-12-2017/
 * https://www.independent.co.uk/voices/syria-missile-arms-deals-west-us-uk-saudi-arabia-a8459731.html
-* https://www.nytimes.com/2017/08/02/world/middleeast/cia-syria-rebel-arm-train-trump.html
+(cuatro artículos sobre el contrabando de armas a rebeldes sirios)
 * https://www.washingtonpost.com/world/national-security/trump-ends-covert-cia-program-to-arm-anti-assad-rebels-in-syria-a-move-sought-by-moscow/2017/07/19/b6821a62-6beb-11e7-96ab-5f38140b38cc_story.html
+* https://www.nytimes.com/2017/08/02/world/middleeast/cia-syria-rebel-arm-train-trump.html (sobre el programa de la CIA)
 * https://www.lrb.co.uk/the-paper/v35/n24/seymour-m.-hersh/whose-sarin (sobre el ataque de gas sarín)
 * https://wikileaks.org/opcw-douma/#OPCW-DOUMA%20-%20Release%20Part%204 (irregularidades en la investigacion de la OPAQ en Douma)
 * https://www.insideover.com/war/who-really-are-the-syrian-white-helmets.html (sobre los Cascos Blancos)
 * https://ctxt.es/es/20181226/Politica/23475/guerra-de-siria-hermanos-musulmanes-partido-baaz-rusia-estados-unidos.htm
-* https://ctxt.es/es/20190102/Politica/23715/Alberto-Rodriguez-siria-guerra-ISIS-hermanos-musulmanes-partido-baaz-rusia-estados-unidos.htm
+* https://ctxt.es/es/20190102/Politica/23715/Alberto-Rodriguez-siria-guerra-ISIS-hermanos-musulmanes-partido-baaz-rusia-estados-unidos.htm (resumen de la guerra de Siria)
 
 <br>
 
