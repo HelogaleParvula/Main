@@ -57,7 +57,7 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * https://www.spectator.co.uk/2017/05/what-exactly-was-the-cia-up-to-in-laos-in-the-1960s/
 * https://www.bbc.com/news/world-us-canada-42314701
 
-## Bahía de Cochinos, Cuba 1961 &nbsp; &ast;
+## Bahía de Cochinos, Cuba 1961  &nbsp; &ast;
 * _Legacy of Ashes_
 * https://www.britannica.com/event/Bay-of-Pigs-invasion
 * https://www.britannica.com/event/Cuban-missile-crisis
@@ -110,6 +110,13 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * https://history.state.gov/historicaldocuments/frus1969-76ve10/d101 (telegrama entre Kissinger y Nixon)
 * https://www.britannica.com/place/Bolivia/Post-1952-regimes#ref218813
 
+## Financiación de yihadistas en Siria, 2011  &nbsp; &ast;
+* http://armswatch.com/350-diplomatic-flights-carry-weapons-for-terrorists/
+* http://armswatch.com/us-task-force-smoking-gun-smuggles-weapons-to-syria-serbia-files-part-2/
+*
+* https://wikileaks.org/opcw-douma/#OPCW-DOUMA%20-%20Release%20Part%204 (irregularidades en la investigacion de la OPAQ en Douma)
+* https://ctxt.es/es/20181226/Politica/23475/guerra-de-siria-hermanos-musulmanes-partido-baaz-rusia-estados-unidos.htm
+* https://ctxt.es/es/20190102/Politica/23715/Alberto-Rodriguez-siria-guerra-ISIS-hermanos-musulmanes-partido-baaz-rusia-estados-unidos.htm
 
 <br>
 
