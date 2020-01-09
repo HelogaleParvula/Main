@@ -121,7 +121,7 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * https://wikileaks.org/opcw-douma/#OPCW-DOUMA%20-%20Release%20Part%204 (irregularidades en la investigacion de la OPAQ en Douma)
 * https://www.insideover.com/war/who-really-are-the-syrian-white-helmets.html (sobre los Cascos Blancos)
 * https://youtu.be/g1VNQGsiP8M (rueda de prensa en Naciones Unidas de la periodista independiente Eva Bartlett)
-* https://youtu.be/lSXwG-901yU (investigación del periodista Pearson Sharp sobre el supuesto ataque químico de Douma)
+* https://youtu.be/lSXwG-901yU (investigación del periodista Pearson Sharp sobre el ataque de Douma)
 * https://ctxt.es/es/20181226/Politica/23475/guerra-de-siria-hermanos-musulmanes-partido-baaz-rusia-estados-unidos.htm
 * https://ctxt.es/es/20190102/Politica/23715/Alberto-Rodriguez-siria-guerra-ISIS-hermanos-musulmanes-partido-baaz-rusia-estados-unidos.htm (resumen de la guerra de Siria)
 
