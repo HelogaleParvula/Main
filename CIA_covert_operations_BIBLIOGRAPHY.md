@@ -110,6 +110,8 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * https://history.state.gov/historicaldocuments/frus1969-76ve10/d101 (telegrama entre Kissinger y Nixon)
 * https://www.britannica.com/place/Bolivia/Post-1952-regimes#ref218813
 
+## Golpe de estado en Libia, 2011
+
 ## Financiación de yihadistas en Siria, 2011-2019 &nbsp; &ast;
 * http://armswatch.com/350-diplomatic-flights-carry-weapons-for-terrorists/ (sobre el contrabando de armas a Siria)
 * http://armswatch.com/us-task-force-smoking-gun-smuggles-weapons-to-syria-serbia-files-part-2/
