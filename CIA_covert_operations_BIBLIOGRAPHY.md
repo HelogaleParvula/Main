@@ -111,6 +111,8 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * https://www.britannica.com/place/Bolivia/Post-1952-regimes#ref218813
 
 ## Golpe de estado en Libia, 2011
+* https://publications.parliament.uk/pa/cm201617/cmselect/cmfaff/119/119.pdf
+* https://www.salon.com/2016/09/16/u-k-parliament-report-details-how-natos-2011-war-in-libya-was-based-on-lies/
 
 ## Financiación de yihadistas en Siria, 2011-2019 &nbsp; &ast;
 * http://armswatch.com/350-diplomatic-flights-carry-weapons-for-terrorists/ (sobre el contrabando de armas a Siria)
