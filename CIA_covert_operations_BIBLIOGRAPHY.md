@@ -85,6 +85,7 @@ A lo largo de la bibliografía se encontrará numerosas veces el libro de Tim We
 * https://www.archives.gov/research/pentagon-papers
 * https://www.nytimes.com/1971/07/01/archives/us-and-diems-overthrow-step-by-step-pentagon-papers-the-diem-coup.html
 * https://www.britannica.com/topic/Pathet-Lao
+* https://www.theguardian.com/world/2003/mar/29/usa.adrianlevy (sobre el agente naranja en la guerra de Vietnam)
 
 ## Golpe de estado en Bolivia, 1964
 * _Legacy of Ashes_
